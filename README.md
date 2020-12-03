@@ -1,6 +1,8 @@
 # calculator
 
 A new Flutter application.
+# Demo
+<img src="sample.jpg" width="220" height="400">
 
 ## Getting Started
 
